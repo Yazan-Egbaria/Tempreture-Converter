@@ -1,2 +1,2 @@
-# Tempreture Converter App
-## # Tempreture converter app using Javscript
+# Temperature Converter App
+ Temperature converter app using Javascript
